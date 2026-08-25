@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://gtbet.pages.dev/sitemap.xml
+Sitemap: https://gtbet-4ap.pages.dev/sitemap.xml

@@ -1,2 +1,0 @@
-# gtbet
-gtbet site
